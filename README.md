@@ -1,6 +1,8 @@
 # 🛒 E-Commerce App Flutter
 
 Ứng dụng thương mại điện tử (frontend-only) được phát triển bằng Flutter, chuyên về thiết bị máy tính và linh kiện với giao diện người dùng hiện đại và trải nghiệm mua sắm mượt mà.
+
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -88,7 +90,7 @@ flutter --version
 
 2. Clone repository về máy
 ```bash
-git clone https://github.com/NamJore04/Cross-platform-E-commerce-Application.git
+git clone https://github.com/NamJore04/Flutter_Computer_Hub.git
 ```
 
 3. Cài đặt dependencies
