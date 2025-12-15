@@ -1,11 +1,16 @@
 # 🛒 E-Commerce App Flutter
 
 Ứng dụng thương mại điện tử (frontend-only) được phát triển bằng Flutter, chuyên về thiết bị máy tính và linh kiện với giao diện người dùng hiện đại và trải nghiệm mua sắm mượt mà.
-Link apk: https://drive.google.com/drive/folders/1IKeKTVmxhdTNb9shnwMvRL6uECgR11D0?usp=sharing
-Link window: https://drive.google.com/drive/folders/1YFs_tkH0J452ocWzJTufi9t8B230kakT?usp=drive_link
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+# 🔗 Demo & Tải về
+
+📱 APK (Android):
+👉 https://drive.google.com/drive/folders/1wzRzf0ik3LQatxE_FYXHcaeuRHXPJ6-q?usp=sharing
+
+🖥️ Windows App:
+👉 https://drive.google.com/drive/folders/1NSoBzlBGaEv41j6Q4sv3PmJhLZp0i6cj?usp=sharing
 
 ## ✨ Tính năng
 
